@@ -1,0 +1,1 @@
+INSERT INTO PET (ID, OWNER, pet_name, PET_TYPE, SIZE_TYPE) values (1,'Cristian', 'Lana', 'DOG', 'MEDIUM');
